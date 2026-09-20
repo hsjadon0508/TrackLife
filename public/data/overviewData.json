@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "music": 149860,
+    "transactions": 10267,
+    "household": 2461,
+    "dateRange": {
+      "start": "2013-07-08",
+      "end": "2024-12-15"
+    }
+  },
+  "lineData": [
+    {
+      "year": "2013",
+      "music": 185,
+      "trans": 0,
+      "home": 0
+    },
+    {
+      "year": "2014",
+      "music": 23,
+      "trans": 0,
+      "home": 0
+    },
+    {
+      "year": "2015",
+      "music": 2809,
+      "trans": 0,
+      "home": 182
+    },
+    {
+      "year": "2016",
+      "music": 6413,
+      "trans": 0,
+      "home": 173
+    },
+    {
+      "year": "2017",
+      "music": 26320,
+      "trans": 0,
+      "home": 568
+    },
+    {
+      "year": "2018",
+      "music": 14817,
+      "trans": 0,
+      "home": 380
+    },
+    {
+      "year": "2019",
+      "music": 14927,
+      "trans": 0,
+      "home": 0
+    },
+    {
+      "year": "2020",
+      "music": 24280,
+      "trans": 0,
+      "home": 0
+    },
+    {
+      "year": "2021",
+      "music": 22991,
+      "trans": 0,
+      "home": 0
+    },
+    {
+      "year": "2022",
+      "music": 16202,
+      "trans": 3303,
+      "home": 0
+    },
+    {
+      "year": "2023",
+      "music": 11023,
+      "trans": 4799,
+      "home": 0
+    },
+    {
+      "year": "2024",
+      "music": 9870,
+      "trans": 1315,
+      "home": 0
+    }
+  ],
+  "pieData": [
+    {
+      "name": "Online Shopping",
+      "value": 25.3,
+      "count": 2596
+    },
+    {
+      "name": "Travel",
+      "value": 23.6,
+      "count": 2419
+    },
+    {
+      "name": "Entertainment",
+      "value": 23.3,
+      "count": 2388
+    },
+    {
+      "name": "Fitness And Medical",
+      "value": 20.1,
+      "count": 2067
+    },
+    {
+      "name": "Uncategorized",
+      "value": 7.8,
+      "count": 797
+    }
+  ],
+  "recentMoments": [
+    {
+      "title": "Music + Travel",
+      "time": "15 Apr 2024 • 03:26 AM",
+      "category": "Travel",
+      "track": "Havar Havar",
+      "artist": "Kourosh Yaghmaei",
+      "amount": 8761.71,
+      "city": "Mathura",
+      "connectionMinutes": 44.7
+    },
+    {
+      "title": "Music + Entertainment",
+      "time": "14 Apr 2024 • 07:31 PM",
+      "category": "Entertainment",
+      "track": "Viviré para Ti",
+      "artist": "Los Amigos Invisibles",
+      "amount": 9765.94,
+      "city": "Thrissur",
+      "connectionMinutes": 0.5
+    },
+    {
+      "title": "Music + Fitness And Medical",
+      "time": "12 Apr 2024 • 01:30 AM",
+      "category": "Fitness And Medical",
+      "track": "Dancing Queen",
+      "artist": "ABBA",
+      "amount": 1569.53,
+      "city": "Kochi",
+      "connectionMinutes": 14.8
+    }
+  ]
+}

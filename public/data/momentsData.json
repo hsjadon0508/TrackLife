@@ -1,0 +1,426 @@
+[
+  {
+    "id": "moment-1",
+    "title": "A Health-Focused Trace",
+    "date": "16 Aug 2022",
+    "start": "2022-08-16T06:51:46",
+    "end": "2022-08-16T07:09:19",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "fitness_and_medical",
+    "transaction": {
+      "count": 1,
+      "amount": 4568.05,
+      "time": "07:05 AM"
+    },
+    "music": {
+      "recordCount": 11
+    },
+    "tracks": [
+      {
+        "track": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "time": "06:51 AM"
+      },
+      {
+        "track": "R U Mine?",
+        "artist": "Arctic Monkeys",
+        "time": "06:54 AM"
+      },
+      {
+        "track": "Just What I Needed",
+        "artist": "The Cars",
+        "time": "06:58 AM"
+      },
+      {
+        "track": "12:51",
+        "artist": "The Strokes",
+        "time": "07:00 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (11 records)",
+        "type": "music"
+      },
+      {
+        "text": "Fitness & Medical (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-2",
+    "title": "A Listening & Entertainment Trace",
+    "date": "08 Oct 2023",
+    "start": "2023-10-08T16:15:00",
+    "end": "2023-10-08T16:45:33",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "entertainment",
+    "transaction": {
+      "count": 1,
+      "amount": 7184.18,
+      "time": "04:16 PM"
+    },
+    "music": {
+      "recordCount": 12
+    },
+    "tracks": [
+      {
+        "track": "Yes Sir, No Sir - 2019 Remaster",
+        "artist": "The Kinks",
+        "time": "04:15 PM"
+      },
+      {
+        "track": "People",
+        "artist": "AWOLNATION",
+        "time": "04:17 PM"
+      },
+      {
+        "track": "Act Naturally - Remastered 2009",
+        "artist": "The Beatles",
+        "time": "04:17 PM"
+      },
+      {
+        "track": "Con Te Partirò",
+        "artist": "Andrea Bocelli",
+        "time": "04:21 PM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (12 records)",
+        "type": "music"
+      },
+      {
+        "text": "Entertainment (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-3",
+    "title": "A Late-Night Entertainment Trace",
+    "date": "24 Mar 2024",
+    "start": "2024-03-24T21:10:46",
+    "end": "2024-03-24T22:02:42",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "entertainment",
+    "transaction": {
+      "count": 1,
+      "amount": 3777.43,
+      "time": "09:39 PM"
+    },
+    "music": {
+      "recordCount": 12
+    },
+    "tracks": [
+      {
+        "track": "Perfect",
+        "artist": "Ed Sheeran",
+        "time": "09:10 PM"
+      },
+      {
+        "track": "If Not for You (2014 Remaster)",
+        "artist": "George Harrison",
+        "time": "09:14 PM"
+      },
+      {
+        "track": "Everything's Not Lost",
+        "artist": "Coldplay",
+        "time": "09:21 PM"
+      },
+      {
+        "track": "Not In That Way",
+        "artist": "Sam Smith",
+        "time": "09:24 PM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (12 records)",
+        "type": "music"
+      },
+      {
+        "text": "Entertainment (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-4",
+    "title": "A Shopping & Listening Trace",
+    "date": "20 Jun 2022",
+    "start": "2022-06-20T04:44:51",
+    "end": "2022-06-20T04:48:00",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "online_shopping",
+    "transaction": {
+      "count": 1,
+      "amount": 6261.72,
+      "time": "04:48 AM"
+    },
+    "music": {
+      "recordCount": 10
+    },
+    "tracks": [
+      {
+        "track": "We Don't Deserve Love",
+        "artist": "Arcade Fire",
+        "time": "04:44 AM"
+      },
+      {
+        "track": "We Don't Deserve Love",
+        "artist": "Arcade Fire",
+        "time": "04:45 AM"
+      },
+      {
+        "track": "Leave Your Lover",
+        "artist": "Sam Smith",
+        "time": "04:45 AM"
+      },
+      {
+        "track": "Hurt",
+        "artist": "Johnny Cash",
+        "time": "04:45 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (10 records)",
+        "type": "music"
+      },
+      {
+        "text": "Online Shopping (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-5",
+    "title": "A Morning Entertainment Trace",
+    "date": "02 Feb 2023",
+    "start": "2023-02-02T04:50:48",
+    "end": "2023-02-02T05:32:20",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "entertainment",
+    "transaction": {
+      "count": 1,
+      "amount": 488.77,
+      "time": "05:05 AM"
+    },
+    "music": {
+      "recordCount": 12
+    },
+    "tracks": [
+      {
+        "track": "Colombina - Remastered",
+        "artist": "Jaime Roos",
+        "time": "04:50 AM"
+      },
+      {
+        "track": "Put Your Life on It",
+        "artist": "Kasabian",
+        "time": "04:55 AM"
+      },
+      {
+        "track": "Whistle For The Choir",
+        "artist": "The Fratellis",
+        "time": "04:59 AM"
+      },
+      {
+        "track": "Mila Song",
+        "artist": "Lacashora",
+        "time": "05:04 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (12 records)",
+        "type": "music"
+      },
+      {
+        "text": "Entertainment (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-6",
+    "title": "A Midnight Health Trace",
+    "date": "03 Mar 2023",
+    "start": "2023-03-02T23:52:00",
+    "end": "2023-03-03T00:36:24",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "fitness_and_medical",
+    "transaction": {
+      "count": 1,
+      "amount": 9008.4,
+      "time": "12:07 AM"
+    },
+    "music": {
+      "recordCount": 12
+    },
+    "tracks": [
+      {
+        "track": "Miss Atomic Bomb",
+        "artist": "The Killers",
+        "time": "11:52 PM"
+      },
+      {
+        "track": "Flesh And Bone",
+        "artist": "The Killers",
+        "time": "11:56 PM"
+      },
+      {
+        "track": "Imploding The Mirage",
+        "artist": "The Killers",
+        "time": "12:00 AM"
+      },
+      {
+        "track": "Quiet Town - Abridged",
+        "artist": "The Killers",
+        "time": "12:04 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (12 records)",
+        "type": "music"
+      },
+      {
+        "text": "Fitness & Medical (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-7",
+    "title": "A Travel & Listening Trace",
+    "date": "24 Nov 2023",
+    "start": "2023-11-24T04:28:57",
+    "end": "2023-11-24T05:21:11",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "travel",
+    "transaction": {
+      "count": 1,
+      "amount": null,
+      "time": "04:55 AM"
+    },
+    "music": {
+      "recordCount": 12
+    },
+    "tracks": [
+      {
+        "track": "Natural High - Single Version",
+        "artist": "Bloodstone",
+        "time": "04:28 AM"
+      },
+      {
+        "track": "Should I Take You Home",
+        "artist": "Bobby Oroza",
+        "time": "04:32 AM"
+      },
+      {
+        "track": "Cumbia Sobre el Mar",
+        "artist": "Quantic",
+        "time": "04:39 AM"
+      },
+      {
+        "track": "クール・ヘッド",
+        "artist": "ゼロ戦",
+        "time": "04:44 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (12 records)",
+        "type": "music"
+      },
+      {
+        "text": "Travel (1)",
+        "type": "transaction"
+      }
+    ]
+  },
+  {
+    "id": "moment-8",
+    "title": "A Midnight Health Trace",
+    "date": "16 Aug 2023",
+    "start": "2023-08-15T23:59:03",
+    "end": "2023-08-16T00:26:49",
+    "source": "Spotify + Transactions",
+    "connection": {
+      "rule": "Activities within 30 minutes",
+      "maxMinutes": 30
+    },
+    "category": "fitness_and_medical",
+    "transaction": {
+      "count": 1,
+      "amount": 440.36,
+      "time": "12:03 AM"
+    },
+    "music": {
+      "recordCount": 11
+    },
+    "tracks": [
+      {
+        "track": "For Eddy",
+        "artist": "Aliotta Haynes Jeremiah",
+        "time": "11:59 PM"
+      },
+      {
+        "track": "El Derroche - Crónica De Fiesta Pt.1",
+        "artist": "Caloncho",
+        "time": "12:01 AM"
+      },
+      {
+        "track": "Home",
+        "artist": "Daughtry",
+        "time": "12:01 AM"
+      },
+      {
+        "track": "La Flor de la Canela (with Joaquín Sabina)",
+        "artist": "Maria Dolores Pradera",
+        "time": "12:02 AM"
+      }
+    ],
+    "tags": [
+      {
+        "text": "Music (11 records)",
+        "type": "music"
+      },
+      {
+        "text": "Fitness & Medical (1)",
+        "type": "transaction"
+      }
+    ]
+  }
+]
