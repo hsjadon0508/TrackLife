@@ -1,10 +1,6 @@
 import { useEffect, useState } from "react";
 
 import {
-  Home,
-  Clock,
-  Search,
-  Compass,
   Music2,
   CreditCard,
   HomeIcon,

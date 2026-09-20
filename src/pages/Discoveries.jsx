@@ -1,9 +1,6 @@
 import React, { useEffect, useMemo, useState } from "react";
 import {
   Home,
-  Clock3,
-  Search,
-  Compass,
   Sparkles,
   Moon,
   Music2,
