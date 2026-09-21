@@ -1,10 +1,10 @@
-# 🧾 LIFETRACK
+# 🧾 DigiTrace
 
 > **A digital life reconstructed from the moments left behind.**
 
-LIFETRACK is a frontend-only interactive data experience that transforms raw digital activity into **patterns, connections, discoveries, and moments**.
+DigiTrace(DigitalTrace) is a frontend-only interactive data experience that transforms raw digital activity into **patterns, connections, discoveries, and moments**.
 
-Instead of simply displaying thousands of records as tables or charts, LIFETRACK explores how different traces — such as music listening and transactions — can appear together in time and turns those observable patterns into an interactive story.
+Instead of simply displaying thousands of records as tables or charts, DigiTrace explores how different traces — such as music listening and transactions — can appear together in time and turns those observable patterns into an interactive story.
 
 ---
 
@@ -26,7 +26,7 @@ Entertainment
 
 When viewed independently, these records provide limited context.
 
-LIFETRACK explores whether such traces can be connected through:
+DigiTrace explores whether such traces can be connected through:
 
 Time proximity
 Categories
@@ -55,14 +55,14 @@ Patterns become "Discoveries"
        ↓
 The user explores the resulting story
 
-The main concept of LIFETRACK is:
+The main concept of DigiTrace is:
 
 Raw Data → Insights → Connections → Moments → Discoveries → Story
 
 Instead of only showing individual records, the project explores how those records can be viewed together.
 
 📊 Datasets
-LIFETRACK works with multiple activity datasets.
+DigiTrace works with multiple activity datasets.
 
 🎵 Spotify Listening History
 The Spotify dataset contains music listening activity across multiple years.
@@ -165,7 +165,7 @@ A transaction can be represented as:
 This common representation allows activities from different datasets to be compared based on their observable properties.
 
 🔗 Connection Methodology
-One of the core concepts of LIFETRACK is temporal connection detection.
+One of the core concepts of DigiTrace is temporal connection detection.
 
 ⏱️ Temporal Connection
 Activities occurring within a defined 30-minute time window can be grouped as a potential connection.
@@ -200,7 +200,7 @@ These activities occur within the same observed time window and can therefore be
 
 🧩 Moments
 
-Moments are the core storytelling feature of LIFETRACK.
+Moments are the core storytelling feature of DigiTrace.
 
 Instead of displaying individual records separately, the application groups activities based on observable temporal relationships.
 
@@ -237,7 +237,7 @@ Caused
       ↓
 Transaction
 
-LIFETRACK therefore describes these relationships as:
+DigiTrace therefore describes these relationships as:
 Potential connections
 Observed patterns
 Temporal relationships
@@ -301,9 +301,9 @@ Shows how transaction activity is distributed across available categories.
 Discoveries are descriptive patterns found in the supplied datasets. They do not claim to explain personal intent, emotions, or causation.
 
 🏗️ Application Architecture:
-LIFETRACK is organized around different stages of data exploration.
+DigiTrace is organized around different stages of data exploration.
 
-                     LIFETRACK
+                     DigiTrace
                          │
           ┌──────────────┼──────────────┐
           │              │              │
@@ -358,7 +358,7 @@ public/
     └── ...
 🖥️ Frontend Architecture
 
-LIFETRACK is completely frontend-only.
+DigiTrace is completely frontend-only.
 
 The project does not require:
 A backend server
@@ -414,10 +414,10 @@ Subtle animations
 Responsive layouts
 Story-oriented presentation
 
-Instead of presenting the data as a traditional analytics dashboard, LIFETRACK aims to make the user feel like they are exploring traces and moments from a larger digital story.
+Instead of presenting the data as a traditional analytics dashboard, DigiTrace aims to make the user feel like they are exploring traces and moments from a larger digital story.
 
 📱 Responsive Design
-LIFETRACK is designed to adapt to different screen sizes.
+DigiTrace is designed to adapt to different screen sizes.
 The interface is intended to remain usable across:
 Desktop
 Laptop
@@ -431,7 +431,7 @@ Sensitive or unnecessary personal fields are not intended to be displayed as par
 
 ⚠️ Limitations
 
-LIFETRACK has several important limitations.
+DigiTrace has several important limitations.
 
 1. Temporal proximity is not causation
 Two activities occurring near each other in time does not prove that they are related.
@@ -487,7 +487,7 @@ git clone <YOUR_GITHUB_REPOSITORY_URL>
 
 Move into the project directory:
 
-cd lifetrack
+cd digitrace
 
 Install dependencies:
 
@@ -530,7 +530,7 @@ Discoveries
 
 🏆 Hackathon Concept
 
-LIFETRACK was created around the idea of transforming raw activity data into an interactive digital story.
+DigiTrace was created around the idea of transforming raw activity data into an interactive digital story.
 The central concept is:
 Don't just visualize the records. Connect the traces and let the user explore the story they form.
 The project focuses on the transition:
@@ -551,5 +551,5 @@ The goal is not to invent a story from the data, but to make observable relation
 React.js · Vite · Tailwind CSS · React Router · GSAP · Recharts · Lucide React
 
 📌 Final Note
-LIFETRACK treats data as a collection of traces rather than isolated rows.
+DigiTrace treats data as a collection of traces rather than isolated rows.
 By combining exploration, rule-based pattern detection, temporal connections, visualization, and interactive storytelling, the project creates a way to move from thousands of raw records toward a more understandable view of the activity they represent.

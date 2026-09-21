@@ -133,7 +133,7 @@ const navigate = useNavigate();
 
             <div className="flex flex-col">
               <span className="text-base font-bold tracking-[0.15em] bg-gradient-to-r from-white via-slate-200 to-slate-400 bg-clip-text text-transparent">
-                TrackLife
+                DigiTrace
               </span>
               <span className="text-[10px] text-slate-400 tracking-wider">DIGITAL FOOTPRINT ENGINE</span>
             </div>
@@ -484,7 +484,7 @@ const navigate = useNavigate();
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-4 px-6 sm:flex-row">
           <div className="flex items-center gap-2">
             <div className="h-2 w-2 rounded-full bg-cyan-400" />
-            <span className="font-semibold text-slate-400">TrackLife &copy; {new Date().getFullYear()}</span>
+            <span className="font-semibold text-slate-400">DigiTrace &copy; {new Date().getFullYear()}</span>
           </div>
 
           <p className="text-center sm:text-right text-slate-500">
